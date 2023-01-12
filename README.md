@@ -14,4 +14,13 @@ It's aims are threefold:
 
 _More to come soon, including information on how you can contribute_
 
+To Do:
+- Start porting over documentation and organising it
+- Dig up all the resource links and set them up
+- Consider storing Unsplash images locally?
+- Figure out how to size the images in the page headers
+- Investogate custom YAML headers on the pages
+- Figure out if it's possible to remove the navigation buttons at the bottom of each page (might be a Gitbook thing)
+- Set collaboration information and guideline
+- Find good resources on git, markdown editing and collaboration bets practices
 
