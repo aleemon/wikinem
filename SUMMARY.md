@@ -4,7 +4,7 @@
 
 ## NEM Basics
 
-* [Vision and Values](the-company/vision-and-values.md)
+* [Vision and Values](nem-basics/overview.md)
 * [Meet the Team!](the-company/meet-the-team.md)
 
 ## NEM Intermediate
