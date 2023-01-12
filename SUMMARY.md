@@ -13,3 +13,5 @@
 * [Filing Expenses](the-formal-stuff/filing-expenses.md)
 
 ## Resources
+
+* [General Resources](resources/resources.md)
