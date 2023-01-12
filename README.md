@@ -23,4 +23,4 @@ To Do:
 - Figure out if it's possible to remove the navigation buttons at the bottom of each page (might be a Gitbook thing)
 - Set collaboration information and guideline
 - Find good resources on git, markdown editing and collaboration bets practices
-
+- Add licence information
